@@ -8,7 +8,7 @@
 ## Repository Description
 PS47 Daily Journal Summarizer - a Streamlit app that stores daily journal entries, uses the Gemini LLM to tag mood for each entry, shows weekly and monthly mood trends with charts, and generates a weekly summary with highlights.
 
-## Problem Statement (from the allotted PDF)
+## Problem Statement 
 Journaling without review has little value. Summarise weekly journal entries into mood trends and highlights.
 How to solve (from PDF): Store entries in a CSV with dates -> LLM tags mood per entry -> weekly summary + a line chart of mood. This project implements exactly that, and extends it with a database, dashboard, analytics and a journal chat.
 
